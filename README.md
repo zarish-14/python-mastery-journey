@@ -4,26 +4,27 @@ Welcome to my Python learning journey!
 
 ## 🎯 Goal
 
-My goal is to become a Python AI Automation Engineer by building projects and documenting my progress every day.
+My goal is to become a Python AI Automation Engineer by building projects, strengthening my Python skills, and documenting my progress consistently.
 
 ---
 
 ## 📅 Progress
 
-- [x] Day 1 - Python Basics
-- [ ] Day 2 - Loops
-- [ ] Day 3 - Functions
-- [ ] Day 4 - Lists
-- [ ] Day 5 - Dictionaries
+| Day | Topics                                                                  | Project                     | Status |
+| --- | ----------------------------------------------------------------------- | --------------------------- | ------ |
+| 1   | Python Basics, Variables, Data Types, Operators, Conditional Statements | Electricity Bill Calculator | ✅      |
+| 2   | Strings, Lists, Tuples, Slicing, String Methods                         | Password Strength Checker   | ✅      |
 
 ---
 
-## 📂 Folder Structure
+## 📂 Repository Structure
 
+```text
 python-mastery-journey/
 │
-├── README.md
+├── 01_python_basics/
 │
-└── 01_python_basics/
-    ├── README.md
-    └── electricity_bill_calculator.py
+└── 02_strings_lists_tuples/
+```
+
+I will continue updating this repository as I learn new Python concepts and build practical projects.

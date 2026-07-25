@@ -8,14 +8,13 @@ My goal is to become a Python AI Automation Engineer by building projects, stren
 
 ---
 
-## 📅 Progress
-
 | Day | Topics | Project | Status |
 | --- | ------ | ------- | ------ |
 | 1 | Python Basics | Electricity Bill Calculator | ✅ |
 | 2 | Strings, Lists & Tuples | Password Strength Checker | ✅ |
 | 3 | Dictionaries & Sets | Programming Language Dictionary | ✅ |
 | 4 | Loops (While, For, Break, Continue, Range) | Student Marks Analyzer | ✅ |
+| 5 | Functions & Recursion | AI Prompt Quality Analyzer | ✅ |
 
 ---
 
